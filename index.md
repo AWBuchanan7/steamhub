@@ -1,6 +1,7 @@
-# Main
 
 * [DuckDuckGo](https://duckduckgo.com/)
+
+# Monster Hunter Hub
 * [Monster Hunter Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
 
 # FFXIV Hub
