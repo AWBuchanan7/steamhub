@@ -9,3 +9,6 @@
 * [FFXIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)
   * [MSQ: Seventh Astral Era](https://ffxiv.consolegameswiki.com/wiki/Seventh_Astral_Era_Quests)
   * [MSQ: Heavensward](https://ffxiv.consolegameswiki.com/wiki/Heavensward_Main_Scenario_Quests)
+
+# FFXV
+* [Fishing Guide](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_fish)
