@@ -1,5 +1,3 @@
-# Aubrey's Steam Home
-
 * [DuckDuckGo](https://duckduckgo.com/)
 
 ## Wiki
