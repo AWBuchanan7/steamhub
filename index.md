@@ -20,6 +20,7 @@
   * [Fishing](https://en.ff14angler.com/)
   * [Triple Triad](https://arrtripletriad.com/)
 * References
+  * [Chocobo Color Calculator](https://ffxivchocobo.com/) 
   * [FFXIV Stats](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_stats)
   * [Levequests & Levemetes Locations](https://ffxivguild.com/ff14-levequests-guide-levemetes/)
   * [Speed-leveling to lv50 for Gatherers](https://steamcommunity.com/sharedfiles/filedetails/?id=338557409)
