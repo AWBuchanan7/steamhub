@@ -10,8 +10,12 @@
   * [MSQ: Heavensward](https://ffxiv.consolegameswiki.com/wiki/Heavensward_Main_Scenario_Quests)
   * [MSQ: Dragonsong War](https://ffxiv.consolegameswiki.com/wiki/Dragonsong_War_Quests)
   * [MSQ: Stormblood](https://ffxiv.consolegameswiki.com/wiki/Stormblood_Main_Scenario_Quests)
+  * [Beast Tribe Quests](https://ffxiv.consolegameswiki.com/wiki/Beast_Tribe_Quests)
+  * [Chocobo Raising](https://ffxiv.consolegameswiki.com/wiki/Chocobo_Raising)
+  * [Chocobo Racing](https://ffxiv.consolegameswiki.com/wiki/Chocobo_Racing)
   * [Grand Company Ranks](https://ffxiv.consolegameswiki.com/wiki/Grand_Company#Ranks)
   * [Sightseeing Log](https://ffxiv.consolegameswiki.com/wiki/Sightseeing_Log)
+  * [Treasure Hunt](https://ffxiv.consolegameswiki.com/wiki/Treasure_Hunt)
 * Guides
   * [Fishing](https://en.ff14angler.com/)
   * [Triple Triad](https://arrtripletriad.com/)
