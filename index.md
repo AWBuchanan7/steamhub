@@ -18,6 +18,7 @@
   * [Treasure Hunt](https://ffxiv.consolegameswiki.com/wiki/Treasure_Hunt)
 * Guides
   * [Fishing](https://en.ff14angler.com/)
+  * [MTQcapture Raid Guides (YouTube)](https://www.youtube.com/user/MTQcapture)
   * [Triple Triad](https://arrtripletriad.com/)
 * References
   * [Chocobo Color Calculator](https://ffxivchocobo.com/) 
