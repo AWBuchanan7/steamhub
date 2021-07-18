@@ -7,8 +7,8 @@
 
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
 * [Monster Hunter Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
-* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 * [Planescape: Torment Wiki](https://torment.fandom.com/wiki/Template:Portal/Planescape:_Torment)
+* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 * [Valheim Wiki](https://valheim.fandom.com/wiki/Valheim_Wiki)
 * [World of Warcraft Wiki](https://wowpedia.fandom.com/wiki/Wowpedia)
 
