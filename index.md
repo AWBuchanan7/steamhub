@@ -10,7 +10,6 @@
 * [Planescape: Torment Wiki](https://torment.fandom.com/wiki/Template:Portal/Planescape:_Torment)
 * [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 * [Valheim Wiki](https://valheim.fandom.com/wiki/Valheim_Wiki)
-* [World of Warcraft Wiki](https://wowpedia.fandom.com/wiki/Wowpedia)
 
 ## FFXIV
 
