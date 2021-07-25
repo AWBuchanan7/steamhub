@@ -31,8 +31,6 @@
 |[Triple Triad Reference (arrtripletriad.com)](https://arrtripletriad.com/)|
 |[UI Customization Guide](https://na.finalfantasyxiv.com/uiguide/?utm_source=lodestone&utm_medium=pc_banner&utm_campaign=na_uiguide)|
 
-### Main Story Quests
-
 | Main Story Quests |
 | :----|
 |[MSQ: Seventh Astral Era](https://ffxiv.consolegameswiki.com/wiki/Seventh_Astral_Era_Quests)|
