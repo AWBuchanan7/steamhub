@@ -1,7 +1,7 @@
 ## General
 
 * [DuckDuckGo](https://duckduckgo.com/)
-* [Final Fantasy XV Fishing Guide](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV_fish)
+* [Final Fantasy XV Fishing Reference](/ffxv-fishing.md)
 
 ### Wiki
 
