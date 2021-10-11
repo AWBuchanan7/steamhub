@@ -1,7 +1,9 @@
 ## General
 
 * [DuckDuckGo](https://duckduckgo.com/)
-* [Final Fantasy XV Fishing Reference](/ffxv-fishing.md)
+* [Final Fantasy IX: Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
+* [Final Fantasy XII: Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
+* [Final Fantasy XV: Fishing Reference](/ffxv-fishing.md)
 
 ### Wiki
 
