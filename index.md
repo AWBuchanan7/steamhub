@@ -1,17 +1,20 @@
 ## General
 
 * [DuckDuckGo](https://duckduckgo.com/)
-* [Final Fantasy IX: Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
-* [Final Fantasy XII: Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
+* [Final Fantasy IX](https://jegged.com/Games/Final-Fantasy-IX/)
+  * [Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
+* [Final Fantasy X](https://jegged.com/Games/Final-Fantasy-X/)
+  * [Blitzball Guide](https://jegged.com/Games/Final-Fantasy-X/Blitzball/) 
+  * [Side Quests Guide](https://jegged.com/Games/Final-Fantasy-X/Side-Quests/)
+* [Final Fantasy XII](https://jegged.com/Games/Final-Fantasy-XII/) 
+  * [Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
 * [Final Fantasy XV: Fishing Reference](/ffxv-fishing.md)
 
 ### Wiki
 
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
 * [Monster Hunter Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
-* [Planescape: Torment Wiki](https://torment.fandom.com/wiki/Template:Portal/Planescape:_Torment)
 * [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
-* [Valheim Wiki](https://valheim.fandom.com/wiki/Valheim_Wiki)
 
 ## FFXIV References
 
