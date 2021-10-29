@@ -1,6 +1,10 @@
 ## General
 
 * [DuckDuckGo](https://duckduckgo.com/)
+* [Mog Station](https://secure.square-enix.com/oauth/oa/oauthlogin%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsecure.square-enix.com%252Faccount%252Fapp%252Fsvc%252Ftop%253Frequest%253Dmogstation%26client_id%3Dffxiv_mog%26alar%3D1%26lang%3Den-us%26facflg%3D1)
+* [ProtonDB](https://www.protondb.com/)
+
+### Final Fantasy Guides
 * [Final Fantasy IX](https://jegged.com/Games/Final-Fantasy-IX/)
   * [Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
 * [Final Fantasy X](https://jegged.com/Games/Final-Fantasy-X/)
@@ -45,13 +49,3 @@
 |[MSQ: Stormblood](https://ffxiv.consolegameswiki.com/wiki/Stormblood_Main_Scenario_Quests)|
 |[MSQ: The Legend Returns](https://ffxiv.consolegameswiki.com/wiki/The_Legend_Returns_Quests)|
 |[MSQ: Shadowbringers](https://ffxiv.consolegameswiki.com/wiki/Shadowbringers_Main_Scenario_Quests)|
-
-
-
-
-
-  
-
-
-
-
