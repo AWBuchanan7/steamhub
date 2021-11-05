@@ -16,8 +16,10 @@
 
 ### Wiki
 
+* [Animal Crossing Wiki](https://nookipedia.com/wiki/Main_Page)
+* [Biomutant Wiki](https://biomutant.wiki.fextralife.com/Biomutant+Wiki)
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
-* [Monster Hunter Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
+* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
 * [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 
 ## FFXIV References
