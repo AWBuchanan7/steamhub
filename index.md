@@ -21,9 +21,10 @@
 * [Animal Crossing Wiki](https://nookipedia.com/wiki/Main_Page)
 * [Biomutant Wiki](https://biomutant.wiki.fextralife.com/Biomutant+Wiki)
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
-* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
+* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
 * [Neverwinter Nights Wiki](https://nwn.fandom.com/wiki/Main_Page)
 * [Planescape: Torment Walkthrough](https://sorcerers.net/Games/Torment/Walkthrough/act2-hive/hive-overview.php)
+* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 
 ## FFXIV References
 
