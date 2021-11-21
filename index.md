@@ -1,7 +1,9 @@
 ## General
 
+* [Beamdog Forums](https://forums.beamdog.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Mog Station](https://secure.square-enix.com/oauth/oa/oauthlogin%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsecure.square-enix.com%252Faccount%252Fapp%252Fsvc%252Ftop%253Frequest%253Dmogstation%26client_id%3Dffxiv_mog%26alar%3D1%26lang%3Den-us%26facflg%3D1)
+* [NexusMods](https://www.nexusmods.com/)
 * [ProtonDB](https://www.protondb.com/)
 
 ### Final Fantasy Guides
@@ -14,13 +16,14 @@
   * [Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
 * [Final Fantasy XV: Fishing Reference](/ffxv-fishing.md)
 
-### Wiki
+### Misc Wikis & Guides
 
 * [Animal Crossing Wiki](https://nookipedia.com/wiki/Main_Page)
 * [Biomutant Wiki](https://biomutant.wiki.fextralife.com/Biomutant+Wiki)
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
-* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
-* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
+* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
+* [Neverwinter Nights Wiki](https://nwn.fandom.com/wiki/Main_Page)
+* [Planescape: Torment Walkthrough](https://sorcerers.net/Games/Torment/Walkthrough/act2-hive/hive-overview.php)
 
 ## FFXIV References
 
