@@ -20,6 +20,7 @@
 
 * [Animal Crossing Wiki](https://nookipedia.com/wiki/Main_Page)
 * [Biomutant Wiki](https://biomutant.wiki.fextralife.com/Biomutant+Wiki)
+* [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
 * [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
 * [Neverwinter Nights Wiki](https://nwn.fandom.com/wiki/Main_Page)
