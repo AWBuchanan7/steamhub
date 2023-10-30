@@ -6,7 +6,22 @@
 * [NexusMods](https://www.nexusmods.com/)
 * [ProtonDB](https://www.protondb.com/)
 
+### Wikis & Guides
+
+* [Dark Souls Wiki](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)
+* [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
+  * [Elden Ring - Interactive Map](https://mapgenie.io/elden-ring/maps/the-lands-between)
+* [Elder Scrolls Wiki](https://en.uesp.net/wiki/Main_Page)
+  * [Skyrim - Interactive Map](https://mapgenie.io/skyrim/maps/skyrim)
+* [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
+* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
+* [Monster Hunter Rise Wiki](https://monsterhunterrise.wiki.fextralife.com/monster+hunter+rise+wiki)
+* [Neverwinter Nights Wiki](https://nwn.fandom.com/wiki/Main_Page)
+  * [Neverwinter Nights - Maps](http://mikesrpgcenter.com/nwn/maps.html) 
+* [Planescape: Torment - Walkthrough](https://sorcerers.net/Games/Torment/Walkthrough/toc.php)
+
 ### Final Fantasy Guides
+
 * [Final Fantasy IX](https://jegged.com/Games/Final-Fantasy-IX/)
   * [Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
 * [Final Fantasy X](https://jegged.com/Games/Final-Fantasy-X/)
@@ -15,18 +30,6 @@
 * [Final Fantasy XII](https://jegged.com/Games/Final-Fantasy-XII/) 
   * [Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
 * [Final Fantasy XV: Fishing Reference](/ffxv-fishing.md)
-
-### Wikis & Guides
-
-* [Animal Crossing Wiki](https://nookipedia.com/wiki/Main_Page)
-* [Biomutant Wiki](https://biomutant.wiki.fextralife.com/Biomutant+Wiki)
-* [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
-* [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
-* [Monster Hunter World Wiki](https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki)
-* [Neverwinter Nights Wiki](https://nwn.fandom.com/wiki/Main_Page)
-  * [Neverwinter Nights Maps](http://mikesrpgcenter.com/nwn/maps.html) 
-* [Planescape: Torment Walkthrough](https://sorcerers.net/Games/Torment/Walkthrough/act2-hive/hive-overview.php)
-* [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 
 ## FFXIV References
 
