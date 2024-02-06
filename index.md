@@ -1,4 +1,4 @@
-## General
+# Steam Home Hub
 
 * [Beamdog Forums](https://forums.beamdog.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
