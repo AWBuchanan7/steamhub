@@ -1,4 +1,4 @@
-# Steam Home Hub
+## General
 
 * [Beamdog Forums](https://forums.beamdog.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
@@ -6,7 +6,7 @@
 * [NexusMods](https://www.nexusmods.com/)
 * [ProtonDB](https://www.protondb.com/)
 
-### Wikis & Guides
+## Wikis & Guides
 
 * [Dark Souls Wiki](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)
 * [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
@@ -20,7 +20,7 @@
   * [Neverwinter Nights - Maps](http://mikesrpgcenter.com/nwn/maps.html) 
 * [Planescape: Torment - Walkthrough](https://sorcerers.net/Games/Torment/Walkthrough/toc.php)
 
-### Final Fantasy Guides
+## Final Fantasy Guides
 
 * [Final Fantasy IX](https://jegged.com/Games/Final-Fantasy-IX/)
   * [Side Quests Guide](https://jegged.com/Games/Final-Fantasy-IX/Side-Quests/)
