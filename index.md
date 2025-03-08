@@ -1,16 +1,42 @@
 ## General
 
-* [Beamdog Forums](https://forums.beamdog.com/)
+* [Backloggery](https://backloggery.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
-* [Mog Station](https://secure.square-enix.com/oauth/oa/oauthlogin%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsecure.square-enix.com%252Faccount%252Fapp%252Fsvc%252Ftop%253Frequest%253Dmogstation%26client_id%3Dffxiv_mog%26alar%3D1%26lang%3Den-us%26facflg%3D1)
+* [How Long To Beat](https://howlongtobeat.com/)
+* [Is There Any Deal?](https://isthereanydeal.com/)
+* [Price Charting](https://www.pricecharting.com/)
+
+PC Gaming
+
+* [GOG](https://www.gog.com/)
+* [itch.io](https://itch.io/)
+* [Steam](https://store.steampowered.com/)
+  * [GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom)
+  * [ProtonDB](https://www.protondb.com/)
+  * [Steam Status](https://steamstat.us/)
+  * [SteamDB](https://steamdb.info/) 
+  * [SteamGridDB](https://www.steamgriddb.com/)
+
+References, Wikis, Resources, Modding
+
+* [Arcade Otaku](https://forum.arcadeotaku.com/)
+* [Console Mods Wiki](https://consolemods.org/)
+* [Emulation General Wiki](https://emulation.gametechwiki.com/)
+* [GameBanana](https://gamebanana.com/)
+* [JunkerHQ - Classic Console Upscaler Wiki](https://junkerhq.net/xrgb)
+* [ModDB](https://www.moddb.com/)
+* [Mugen Archive](https://mugenarchive.com/forums/downloads.php)
 * [NexusMods](https://www.nexusmods.com/)
-* [ProtonDB](https://www.protondb.com/)
+  * [Vortex Mod Manager](https://www.nexusmods.com/about/vortex)
+* [ReShade](https://reshade.me/)
+* [Romhacking.net](https://www.romhacking.net/)
 
 ## Wikis & Guides
 
 * [Dark Souls Wiki](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)
+* [Disney Dreamlight Valley Wiki](https://dreamlightvalleywiki.com/Dreamlight_Valley_Wiki)
 * [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
-  * [Elden Ring - Interactive Map](https://mapgenie.io/elden-ring/maps/the-lands-between)
+* [Elden Ring - Interactive Map](https://mapgenie.io/elden-ring/maps/the-lands-between)
 * [Elder Scrolls Wiki](https://en.uesp.net/wiki/Main_Page)
   * [Skyrim - Interactive Map](https://mapgenie.io/skyrim/maps/skyrim)
 * [Fallout Wiki](https://fallout.fandom.com/wiki/Fallout_Wiki)
@@ -31,11 +57,14 @@
   * [Hunt Index](https://jegged.com/Games/Final-Fantasy-XII/Clan-Primer/Hunts/)
 * [Final Fantasy XV: Fishing Reference](/ffxv-fishing.md)
 
-## FFXIV References
+## Final Fantasy XIV
+
+* [Lodestone](https://na.finalfantasyxiv.com/lodestone/)
+* [Mog Station](https://secure.square-enix.com/account/app/svc/mogstation/)
 
 | References |
 | :--- |
-|[Beast Tribe Quests](https://ffxiv.consolegameswiki.com/wiki/Beast_Tribe_Quests)|
+|[Allied Society Quests](https://ffxiv.consolegameswiki.com/wiki/Allied_Society_Quests)|
 |[Chocobo Color Calculator *(ffxivchocobo.com)*](https://ffxivchocobo.com/)|
 |[Chocobo *(Companion)* Raising](https://ffxiv.consolegameswiki.com/wiki/Chocobo_Raising)|
 |[Chocobo Racing](https://ffxiv.consolegameswiki.com/wiki/Chocobo_Racing)|
