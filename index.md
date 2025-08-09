@@ -35,7 +35,8 @@ References, wikis, resources, and modding:
 Game-specific wikis, guides, and maps:
 
 * [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
-* [Dark Cloud Weapons Build-up Chart](https://raboley.github.io/dark-cloud-encyclopedia-mono/weapon-graph?character=Toan)
+* [Dark Cloud Wiki](https://darkcloud.fandom.com/wiki/Dark_Cloud_Wiki:Main_Page)
+  * [Dark Cloud Weapons Build-up Chart](https://raboley.github.io/dark-cloud-encyclopedia-mono/weapon-graph?character=Toan)
 * [Dark Souls Wiki](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)
 * [Disney Dreamlight Valley Wiki](https://dreamlightvalleywiki.com/Dreamlight_Valley_Wiki)
 * [Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
